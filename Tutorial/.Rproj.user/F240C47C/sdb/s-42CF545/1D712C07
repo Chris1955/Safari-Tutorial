@@ -1,0 +1,17 @@
+{
+    "contents" : "1+1\n",
+    "created" : 1427320652919.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2067990389",
+    "id" : "1D712C07",
+    "lastKnownWriteTime" : 1427320694,
+    "path" : "~/R Course on Safari/Tutorial/first.r",
+    "project_path" : "first.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
